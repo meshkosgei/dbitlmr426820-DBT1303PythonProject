@@ -1,0 +1,8 @@
+tvoc_feed = aio.feeds('tvoc')
+eco2_feed = aio.feeds('eco2')
+door_feed = aio.feeds('front-door')
+motion_feed = aio.feeds('motion-detector')
+alarm_feed = aio.feeds('home-alarm')
+outdoor_lights_feed = aio.feeds('outdoor-lights')
+indoor_lights_Feed = aio.feeds('indoor-lights')
+picam_feed = aio.feeds('picam')
